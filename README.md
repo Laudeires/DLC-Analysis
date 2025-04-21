@@ -1,0 +1,1 @@
+This script allows you to visually mark an area of interest in a video by setting custom x and y boundaries. It can be used both for algorithmic analysis and to optimize processing with DeepLabCut. Once the region is defined, only the coordinates within the rectangle (x1, y1) to (x2, y2) will be considered during analysis as specified in the config.
